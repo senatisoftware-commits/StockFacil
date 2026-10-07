@@ -1,1 +1,1 @@
-// Controlador de productos 
+public class ProductoController { } 

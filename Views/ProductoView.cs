@@ -1,1 +1,1 @@
-// Interfaz de usuario 
+public class ProductoView { } 
