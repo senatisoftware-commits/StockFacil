@@ -14,4 +14,9 @@ public class ProductoService
     {
         return ValidarNombre(p.Nombre) && ValidarPrecio(p.Precio);
     }
+
+    public bool ValidarStock(int stock)
+    {
+    return stock >= 0;
+    }
 }
